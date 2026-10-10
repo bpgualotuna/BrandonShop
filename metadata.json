@@ -1,0 +1,6 @@
+{
+  "name": "Brandon | Catálogo Digital de Electrodomésticos",
+  "description": "Catálogo interactivo moderno de electrodomésticos de Brandon con cotización instantánea de crédito y compra directa vía WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
